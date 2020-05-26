@@ -30,5 +30,8 @@
     "ts-node": "^8.10.1",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "node-opcua": "^2.5.12"
   }
 }
