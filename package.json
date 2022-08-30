@@ -32,6 +32,6 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
-    "node-opcua": "^2.5.12"
+    "node-opcua": "^2.74.0"
   }
 }
